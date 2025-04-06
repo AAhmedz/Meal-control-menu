@@ -1,0 +1,10 @@
+E:\2nd year 2T\MMedia\Meal control menu\bin\Debug\Meal control menu.exe.config
+E:\2nd year 2T\MMedia\Meal control menu\bin\Debug\Meal control menu.exe
+E:\2nd year 2T\MMedia\Meal control menu\bin\Debug\Meal control menu.pdb
+E:\2nd year 2T\MMedia\Meal control menu\obj\Debug\Meal control menu.csproj.AssemblyReference.cache
+E:\2nd year 2T\MMedia\Meal control menu\obj\Debug\Meal_control_menu.Form1.resources
+E:\2nd year 2T\MMedia\Meal control menu\obj\Debug\Meal_control_menu.Properties.Resources.resources
+E:\2nd year 2T\MMedia\Meal control menu\obj\Debug\Meal control menu.csproj.GenerateResource.cache
+E:\2nd year 2T\MMedia\Meal control menu\obj\Debug\Meal control menu.csproj.CoreCompileInputs.cache
+E:\2nd year 2T\MMedia\Meal control menu\obj\Debug\Meal control menu.exe
+E:\2nd year 2T\MMedia\Meal control menu\obj\Debug\Meal control menu.pdb
